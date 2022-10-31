@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Cocktail",
-    "slug": "Cocktail",
+    "name": "marvel-comics",
+    "slug": "marvel-comics",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
